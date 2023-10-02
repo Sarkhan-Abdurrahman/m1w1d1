@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:opsz,wght@8..144,100;8..144,200;8..144,300;8..144,400;8..144,500;8..144,600;8..144,700&display=swap');
+
+.logo_container {
+    display: flex;
+    justify-content: center;
+}
+
+#logo {
+width: 200px;
+height: 55px;
+margin-right: 10px;
+}
+
+.author {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(253, 251, 241);
+    border-top: solid rgb(255, 216, 119) 1.5px;
+    margin-top: 25px;
+    margin-bottom: 75px;
+}
+
+#author {
+    color: rgb(0, 77, 76);
+}
+
+h1 {
+    text-align: center;
+    margin-inline: 550px 550px;
+    margin-block: 0;
+}
+
+.content {
+    margin-inline: 500px 500px;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+}
+
+#image {
+    width: 650px;
+}
+
+#vegas {
+    text-align: center;
+    color: rgb(153, 153, 153);
+}
+
+.introduction {
+    margin: 0%;
+}
+
+#featured {
+    margin-block: 0;
+    color: rgb(181, 70, 15);
+    font-weight: 500;
+}
+
+a {
+    margin-block: 0;
+    color: rgb(16, 119, 119);
+    text-decoration: underline;
+}
+
+#link {
+    margin-top: 1cm;
+    border-left: solid rgb(255, 216, 119) 1.5px;
+    margin-bottom: 0;
+    margin-inline: 0;
+    padding-left: 0.5cm;
+    font-family: 'Roboto Serif', serif;
+}
+
+h3 {
+    font-family: 'Roboto Serif', serif;
+    font-weight: 500;
+    margin-top: 2.5cm;
+    padding-bottom: 0.5cm;
+    border-bottom: solid rgb(196, 243, 242) 1.5px;
+    margin-bottom: 1cm;
+}
+
+.ingredients {
+    margin: 0;
+}
+
+#focaccia {
+    font-weight: bold;
+    margin-top: 0;
+}
+
+#topping {
+    font-weight: bold;
+    margin-top: 1cm;
+}
+
+li {
+    margin-bottom: 16px;
+}
+
+ul {
+    margin-block: 0;
+}
+
+.method {
+    margin: 0;
+}
+
+ol {
+    margin-top: 0;
+    margin-bottom: 16px;
+}
+
+#read_more {
+    margin-top: 0;
+    margin-bottom: 0;
+}
